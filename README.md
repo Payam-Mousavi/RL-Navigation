@@ -7,7 +7,7 @@
 
 ### Introduction
 
-For this project, I trained an agent to navigate (and collect bananas!) in a large, square world.  
+For this project, I trained an agent to navigate (and collect bananas!) in a large, square world. A [DQN agent](https://deepmind.com/research/dqn/) was implemented to achieve the this goal.
 
 ![Trained Agent][image1]
 
